@@ -1,5 +1,5 @@
 import numpy as np
-from libs_hh2.Euler import Euler_Angle, Euler_Angles_from_R, Fixed_Angle
+from Euler import Euler_Angle, Euler_Angles_from_R, Fixed_Angle
 
 ######## Part A #######################
 
